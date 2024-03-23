@@ -1,7 +1,7 @@
 # Aleksandr Panchenko
 **`Unity developer`**
 
-I'm a Junior+ Unity Developer.
+I'm a Junior Unity Developer.
 
 ### Technologies
 
