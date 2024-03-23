@@ -45,6 +45,7 @@ I'm a Junior+ Unity Developer.
       <br />
       <br />
       <br />
+      <br />
      <a href="https://yandex.ru/games/app/294351?utm_source=app_page">
        <img alt="Russes vs Lizards" title="Play on Yandex Games" width = "200" src="Images/YandexGames.svg"/>
      </a> 
@@ -61,6 +62,7 @@ I'm a Junior+ Unity Developer.
       <br />
       <br />
       <br />
+      <br />
      <a href="https://yandex.ru/games/app/294818?utm_source=app_page">
        <img alt="Tile Fusion" title="Play on Yandex Games" width = "200" src="Images/YandexGames.svg"/>
      </a> 
@@ -69,6 +71,7 @@ I'm a Junior+ Unity Developer.
   #### Juicy Fruit
   <div id="project-3">
      <img align="left" alt="JuicyFruit" width="300px" heaight="176.25" src="Images/JuicyFruit.png"/>
+      <br />
       <br />
       <br />
       <br />
