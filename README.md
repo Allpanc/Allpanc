@@ -46,10 +46,11 @@ I'm a Junior+ Unity Developer.
       <br />
       <br />
      <a href="https://yandex.ru/games/app/294351?utm_source=app_page">
-       <img alt="youtube subscribers" title="Play on Yandex Games" width = "200" src="Images/YandexGames.svg"/>
+       <img alt="Russes vs Lizards" title="Play on Yandex Games" width = "200" src="Images/YandexGames.svg"/>
      </a> 
   </div>
 
+  #### Tile Fusion
   <div id="project-2">
      <img align="left" alt="TileFusion" width="300px" heaight="176.25" src="Images/TileFusion.png"/>
       <br />
@@ -60,8 +61,24 @@ I'm a Junior+ Unity Developer.
       <br />
       <br />
       <br />
-     <a href="https://yandex.ru/games/app/294351?utm_source=app_page">
-       <img alt="youtube subscribers" title="Play on Yandex Games" width = "200" src="Images/YandexGames.svg"/>
+     <a href="https://yandex.ru/games/app/294818?utm_source=app_page">
+       <img alt="Tile Fusion" title="Play on Yandex Games" width = "200" src="Images/YandexGames.svg"/>
+     </a> 
+  </div>
+
+  #### Juicy Fruit
+  <div id="project-3">
+     <img align="left" alt="JuicyFruit" width="300px" heaight="176.25" src="Images/JuicyFruit.png"/>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+     <a href="https://yandex.ru/games/app/308191?draft=true&lang=ru">
+       <img alt="Juicy Fruit" title="Play on Yandex Games" width = "200" src="Images/YandexGames.svg"/>
      </a> 
   </div>
 
