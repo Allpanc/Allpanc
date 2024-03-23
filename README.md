@@ -86,4 +86,5 @@ I'm a Junior+ Unity Developer.
   </div>
 
 #
+  #### GitHub Stats
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allpanc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
