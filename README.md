@@ -32,12 +32,25 @@ I'm a Junior+ Unity Developer.
   </div>
   
   #
-
-  ### Project Examples:
+  ### Projects:
   #### Russes vs Lizards: Eggfall
-  <a href="https://yandex.ru/games/app/294351?utm_source=app_page" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-  
-  #
+
+  <div id="projects">
+     <img align="left" alt="RussesvsLizards" width="300px" heaight="176.25" style="display: inline-block;" src="RussesVsLizards.png"/>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+     <a href="https://yandex.ru/games/app/294351?utm_source=app_page">
+       <img alt="youtube subscribers" title="Play on Yandex Games" width = "200" src="https://yastatic.net/s3/games-static/static-data/images/single-logo/yandex_games_games_en_black.svg"/>
+     </a> 
+  </div>
+
+
+#
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allpanc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
