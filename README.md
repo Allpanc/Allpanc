@@ -35,9 +35,8 @@ I'm a Junior+ Unity Developer.
   ### Projects:
   #### Russes vs Lizards: Eggfall
 
-  <div id="projects">
-     <img align="left" alt="RussesvsLizards" width="300px" heaight="176.25" style="display: inline-block;" src="RussesVsLizards.png"/>
-      <br />
+  <div id="project-1">
+     <img align="left" alt="RussesvsLizards" width="300px" heaight="176.25" src="Images/RussesVsLizards.png"/>
       <br />
       <br />
       <br />
@@ -47,10 +46,24 @@ I'm a Junior+ Unity Developer.
       <br />
       <br />
      <a href="https://yandex.ru/games/app/294351?utm_source=app_page">
-       <img alt="youtube subscribers" title="Play on Yandex Games" width = "200" src="https://yastatic.net/s3/games-static/static-data/images/single-logo/yandex_games_games_en_black.svg"/>
+       <img alt="youtube subscribers" title="Play on Yandex Games" width = "200" src="Images/YandexGames.svg"/>
      </a> 
   </div>
 
+  <div id="project-2">
+     <img align="left" alt="TileFusion" width="300px" heaight="176.25" src="Images/TileFusion.png"/>
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+      <br />
+     <a href="https://yandex.ru/games/app/294351?utm_source=app_page">
+       <img alt="youtube subscribers" title="Play on Yandex Games" width = "200" src="Images/YandexGames.svg"/>
+     </a> 
+  </div>
 
 #
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allpanc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
