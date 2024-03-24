@@ -22,15 +22,13 @@ I'm a Junior+ Unity Developer.
 #
 ### Contacts:
 
-  <div id="badges">
-    <a href="https://t.me/Alpanch" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
+  <p align="left">
+    <a href="https://t.me/Alpanch">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/></a>
     <span>&nbsp&nbsp</span>
-    <a href="https://vk.com/allpanc" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
+    <a href="https://vk.com/allpanc">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40"/></a>
+  <p>
   
   #
   ### Projects:
