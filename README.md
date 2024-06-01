@@ -1,7 +1,7 @@
 # Aleksandr Panchenko
 **`Unity developer`**
 
-I'm a Junior+ Unity Developer.
+I'm a Unity Developer currently working in HTML5 games development.
 
 ### Technologies
 
@@ -23,6 +23,9 @@ I'm a Junior+ Unity Developer.
 ### Contacts:
 
   <p align="left">
+    <a href="https://www.linkedin.com/in/aleksandr-panchenko-a26282304/">
+      <img src="Images\LinkedIn_icon.svg" width="40"/></a>
+    <span>&nbsp&nbsp</span>
     <a href="https://t.me/Alpanch">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40"/></a>
     <span>&nbsp&nbsp</span>
@@ -79,9 +82,12 @@ I'm a Junior+ Unity Developer.
       <br />
       <br />
       <br />
-     <a href="https://yandex.ru/games/app/308191?draft=true&lang=ru">
-       <img alt="Juicy Fruit" title="Play on Yandex Games" width = "200" src="Images/YandexGames.svg"/>
-     </a> 
+      <a href="https://yandex.ru/games/app/335295">
+        <img alt="Juicy Fruit" title="Play on Yandex Games" width = "200" src="Images/YandexGames.svg"/>
+      </a> 
+      <a href="https://www.crazygames.com/game/fruit-balls-juicy-fusion">
+        <img alt="Juicy Fruit" title="Play on Crazy Games" width = "200" src="Images/CrazyGames.svg"/>
+      </a> 
   </div>
 
 #
