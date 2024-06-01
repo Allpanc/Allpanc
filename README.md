@@ -70,7 +70,7 @@ I'm a Unity Developer currently working in HTML5 games development.
      </a> 
   </div>
 
-  #### Juicy Fruit
+  #### Fruit Balls: Juicy Fusion
   <div id="project-3">
      <img align="left" alt="JuicyFruit" width="300px" heaight="176.25" src="Images/JuicyFruit.png"/>
       <br />
@@ -85,6 +85,7 @@ I'm a Unity Developer currently working in HTML5 games development.
       <a href="https://yandex.ru/games/app/335295">
         <img alt="Juicy Fruit" title="Play on Yandex Games" width = "200" src="Images/YandexGames.svg"/>
       </a> 
+      <br />
       <a href="https://www.crazygames.com/game/fruit-balls-juicy-fusion">
         <img alt="Juicy Fruit" title="Play on Crazy Games" width = "200" src="Images/CrazyGames.svg"/>
       </a> 
