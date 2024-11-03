@@ -1,7 +1,7 @@
 # Aleksandr Panchenko
 **`Unity developer`**
 
-I'm a Unity Developer currently working in HTML5 games development.
+I'm a Unity Developer currently working in mobile games development.
 
 ### Technologies
 
